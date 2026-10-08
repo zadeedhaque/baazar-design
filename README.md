@@ -6,7 +6,9 @@ You can move, resize, rotate, recolour, replace or delete any of them, and add n
 
 ## Open it
 
-Double-click `index.html`. It runs in Chrome, Edge, Safari or Firefox, needs no install, and works
+Online: **https://zadeedhaque.github.io/baazar-design/**
+
+Or download the repository and double-click `index.html`. It runs in Chrome, Edge, Safari or Firefox, needs no install, and works
 offline: fonts, icons and photos are bundled in `js/data/`.
 
 ## Editing
